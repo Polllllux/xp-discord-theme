@@ -14,13 +14,13 @@
 
 /* See https://github.com/Saltssaumure/xp-discord-theme#customisation for customisation settings. */
 :root {
-    --xp-background-image:  url(https://saltssaumure.github.io/xp-discord-theme/img/bliss.avif);
-    --xp-background-color:  #0066CC;
-    --xp-window-color-1:    #005AE7;
-    --xp-window-color-2:    #0372FF;
-    --xp-taskbar-color-1:   #108CE4;
-    --xp-taskbar-color-2:   #578CD0;
-    --xp-taskbar-color-3:   #1665CA;
+    --xp-background-image:  url(https://preview.redd.it/vyzs32jg0lqz.png);
+    --xp-background-color:  #28006e;
+    --xp-window-color-1:    #4d0085;
+    --xp-window-color-2:    #2719a6;
+    --xp-taskbar-color-1:   #371F86;
+    --xp-taskbar-color-2:   #371F86;
+    --xp-taskbar-color-3:   #371F86;
     --xp-start-color-1:     #008000;
     --xp-start-color-2:     #38C438;
     --xp-shortcut-color-1:  #0CA80C;
